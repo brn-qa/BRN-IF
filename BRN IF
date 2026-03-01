@@ -46,7 +46,7 @@
     <div class="iframe-container">
         <div class="loader" id="loader">Loading...</div>
         <iframe
-            src="......."
+            src="https://script.google.com/macros/s/AKfycbyCmn_IW_Uzn5S2Ev8B07VS2UOF8mDRbxJymUo8N_6L1oRLJobiwZ6xdgGvz59K0L52Xw/exec"
             title="BRN IF KJ. BARUT" onload="document.getElementById('loader').style.display='none';" allowfullscreen>
         </iframe>
     </div>
